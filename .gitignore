@@ -1,4 +1,6 @@
 # Caffe models
+*.DS_Store
+example.py
 *.caffemodel
 *.zip
 *.gz
